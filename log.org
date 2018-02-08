@@ -1,0 +1,134 @@
+#+LANGUAGE:  en
+#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="article.css" />
+#+TITLE: SHORTWAVE
+#+AUTHOR: BRT
+
+* EQUIPMENT
+Tecsun PL-380
+
+* LOG
+Log of received stations.
+
+#+CAPTION: Log
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+NAME: history
+|  Freq | Name                              | Language   | Location               |   Lat. |  Long. | Power |
+|-------+-----------------------------------+------------+------------------------+--------+--------+-------|
+|  3950 | PBS Xinjiang                      | Chinese    | Urumqi, China          |  43.83 |   87.6 |   100 |
+|  4800 | China National Radio 1            | Chinese    | Golmud, China          |  36.42 |  94.88 |   100 |
+|  4905 | PBS Xizang                        | Tibetan    | Lhasa, China           |  29.65 |  91.12 |    50 |
+|  4920 | PBS Xizang                        | Tibetan    | Lhasa, China           |  29.65 |  91.12 |    50 |
+|  5000 | BPM                               | Chinese    | Shananxi, China        |  34.95 | 109.54 |     ? |
+|  5840 | Voice of America                  | Korean     | Tinian Island          |     15 | 145.63 |   250 |
+|  5900 | Radio Taiwan Int.                 | Chinese    | Kouhu                  |  23.70 | 120.48 |   100 |
+|  5910 | China Radio Int.                  | Chinese    | Beijing, China         |  39.92 | 116.38 |   500 |
+|  5945 | China National Radio 1            | Chinese    | Beijing, China         |  39.92 | 116.38 |   100 |
+|  5965 | China Radio Int.                  | Korean     | Xian, China            |  34.27 |  108.9 |   500 |
+|  6045 | Voice of America                  | Chinese    | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+|  6065 | China National Radio 2            | Chinese    | Beijing, China         |  39.92 | 116.38 |   150 |
+|  6085 | Shiokaze (Sea-breeze)             | Japanese   | Ibaragi, Japan         |  36.18 | 139.76 |   300 |
+|  6155 | China National Radio 2            | Chinese    | Beijing, China         |  39.92 | 116.38 |   150 |
+|  6185 | Radio Taiwan Int.                 | English    | Paochung               |  25.07 | 121.52 |   300 |
+|  6250 | Echo of Unification/Noise Jamming | Korean     | Pyongyang, North Korea |  39.02 | 125.73 |   100 |
+|  7215 | China Radio Int.                  | Chinese    | Xian, China            |  34.27 |  108.9 |   500 |
+|  7275 | KBS World Radio                   | Japanese   | Kimjae, South Korea    |  37.55 | 126.97 |   100 |
+|  7545 | Voice of America                  | Cantonese  | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+|  9355 | VOA Deewa Radio                   | Pashto     | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+|  9390 | VOA Deewa Radio                   | Pashto     | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+|  9400 | FEBC Radio                        | Chinese    | Iba, Phillippines      |  15.33 | 119.98 |   100 |
+|  9410 | BBC World Service                 | English    | Alseela, Oman          |   23.6 |  58.55 |   250 |
+|  9490 | PBS Xizang                        | Tibetan    | Lhasa, China           |  29.65 |  91.12 |   100 |
+|  9570 | China National Radio 2            | Chinese    | Golmud, China          |  36.42 |  94.88 |   100 |
+|  9645 | Vatican Radio                     | Romanian   | Vatican                |  42.02 |  12.32 |   250 |
+|  9660 | Radio Taiwan Int.                 | Chinese    | Kouhu                  |  23.70 | 120.48 |   100 |
+|  9680 | Radio Taiwan Int.                 | Chinese    | Tamsui District        |  25.17 | 121.44 |   100 |
+|  9685 | CNR 5                             | Chinese    | Beijing, China         |  39.92 | 116.38 |   100 |
+|  9770 | KBS World Radio                   | English    | Kimjae, South Korea    |  37.55 | 126.97 |   100 |
+|  9790 | Voice of America                  | Chinese    | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+|  9800 | Voice of America                  | Korean     | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+|  9880 | KSDA-Adventist World of Guam      | Korean     | Agat, Guam             |  13.38 | 144.65 |   100 |
+|  9930 | T8WH Heart to Heart               | English    | Republic of Palau      |    7.5 | 134.62 |   100 |
+|  9940 | Voice of America                  | Chinese    | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+| 11610 | China National Radio 2            | Chinese    | Beijing, China         |  39.92 | 116.38 |   150 |
+| 11620 | All India Radio                   | Tibetan    | Panaji, India          |  15.50 |  73.82 |   250 |
+| 11620 | China National Radio 5            | Chinese    | Beijing, China         |  39.92 | 116.38 |   100 |
+| 11630 | CNR 17                            | Kazakh     | Lingshi, China         |  37.68 | 112.73 |   100 |
+| 11650 | Voice of America                  | Chinese    | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+| 11670 | China National Radio 2            | Chinese    | Beijing, China         |  39.92 | 116.38 |   100 |
+| 11680 | KCBS Pyongyang                    | Korean     | Kanggye, North Korea   |  40.97 |  126.6 |    50 |
+| 11760 | China National Radio 1            | Chinese    | Shijiazhuang, China    |  38.07 |  114.5 |   100 |
+| 11765 | Radio Taiwan Int.                 | Chinese    | Paochung               |  25.07 | 121.52 |   300 |
+| 11770 | PBS Xinjiang                      | Chinese    | Urumqi, China          |  43.83 |   87.6 |    50 |
+| 11795 | Radio Free Asia                   | Burmese    | Tinian Island          |     15 | 145.63 |   250 |
+| 11825 | NHK World Radio Japan             | English    | Kranji, Singapore      |   1.42 | 103.75 |   250 |
+| 11850 | Radio Veritas Asia                | Vietnamese | Palauig, Phillippines  |  15.43 | 120.05 |   250 |
+| 11855 | Voice of America                  | Chinese    | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+| 11860 | PBS Xizang                        | Chinese    | Lhasa, China           |  29.65 |  91.12 |   100 |
+| 11935 | China National Radio 5            | Chinese    | Beijing, China         |  39.92 | 116.38 |   100 |
+| 12020 | Voice of Vietnam                  | English    | Hanoi, Vietnam         |  21.03 | 105.85 |   100 |
+| 12055 | Radio Free Asia                   | Tibetan    | Lampertheim, Germany   |   49.6 |   8.47 |   100 |
+| 12085 | Voice of Mongolia                 | English    | Ulaanbaatar, Mongolia  |  47.92 | 106.92 |   250 |
+| 12140 | Radio Free Afganistan             | Dari       | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+| 13645 | China Radio Int.                  | English    | Xian, China            |  34.27 |  108.9 |   500 |
+| 13660 | China Radio Int.                  | English    | Xian, China            |  34.27 |  108.9 |   500 |
+| 13700 | CNR 13                            | Uyghur     | Lingshi, China         |  37.68 | 112.73 |   100 |
+| 13710 | Voice of America                  | Chinese    | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+| 15105 | Voice of Korea                    | English    | Kujang, North Korea    |   40.1 |  124.4 |   200 |
+| 15120 | Radio Saudi Int.                  | Bengali    | Riyadh, Saudi Arabia   |  24.63 |  46.72 |   500 |
+| 15160 | China Radio Int.                  | Chinese    | Jinhua, China          |  29.08 | 116.65 |   500 |
+| 15280 | NHK World Radio Japan             | Japanese   | Ibaragi, Japan         |  36.18 | 139.76 |   300 |
+| 15500 | China National Radio 2            | Chinese    | Beijing, China         |  39.92 | 116.38 |   150 |
+| 15560 | World Christian Broadc. KNLS      | English    | Madagascar             | -18.92 |  47.52 |   100 |
+| 15590 | NHK World Radio Japan             | Japanese   | Ibaragi, Japan         |  36.18 | 139.76 |   300 |
+| 15665 | China Radio Int.                  | Russian    | Kashi, China           |  39.47 |  75.98 |   500 |
+| 15710 | China National Radio 6            | Hakka      | Beijing, China         |  39.92 | 116.38 |   100 |
+| 15745 | Radio Free Asia                   | Tibetan    | Dushanbe, Tajikistan   |  38.54 |  68.78 |   200 |
+| 15750 | Radio Taiwan International        | Chinese    | Kouhu                  |  23.70 | 120.48 |   100 |
+| 15760 | Radio Mashaal (Radio Free Europe) | Pashto     | Udon Thani, Thailand   |  17.42 | 102.75 |   250 |
+| 17490 | China Radio Int.                  | English    | Kashi, China           |  39.47 |  75.98 |   500 |
+| 17615 | China Radio Int.                  | German     | Urumqi, China          |  43.83 |   87.6 |   500 |
+| 17660 | Radio Free Asia                   | Chinese    | Agignan Point, Saipan  |  15.18 | 145.76 |   100 |
+| 17700 | Adventist World Radio             | Isan       | Trincomalee, Sri Lanka |   8.57 |  81.23 |   125 |
+| 17710 | Radio China Int.                  | English    | Beijing, China         |  39.92 | 116.38 |   500 |
+| 17820 | Radio Philipinas                  | Filipino   | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+| 17865 | Voice of America                  | Tibetan    | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+| 21600 | Voice of America                  | Tibetan    | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+| 21795 | Voice of America                  | Tibetan    | Tinang, Phillippines   |   14.8 | 120.93 |   250 |
+* MAP
+
+#+BEGIN_SRC python :var history=history :exports none :results silent
+
+        #generate the map with matplotlib and basemap
+        from mpl_toolkits.basemap import Basemap
+        import numpy as np
+        import matplotlib.pyplot as plt
+	
+	TABLE_LAT_POSITION = 4
+	TABLE_LON_POSITION = 5
+	
+	OUTPUT_FILE_NAME = "map.png"
+	
+	#setup base map
+	m = Basemap(projection='robin', lon_0=0, resolution='c')
+	m.drawcoastlines()
+	m.fillcontinents(color='green',lake_color='aqua')
+	m.drawmapboundary(fill_color='aqua')
+	
+	#draw home point
+	x,y = m(106.57,29.56)
+	m.plot(x, y, marker='.',color='k')
+	
+	#draw contact points on the map
+	for i in range(0,len(history)):
+	    #convert all the lat and lon entries ini the table to map points
+	    x,y = m(history[i][TABLE_LON_POSITION],history[i][TABLE_LAT_POSITION])
+	
+	    m.plot(x, y, marker='.',color='r')
+	
+	#plt.title("DXing")
+	plt.savefig(OUTPUT_FILE_NAME, dpi=160, bbox_inches='tight')
+
+#+END_SRC
+
+#+CAPTION: Map of transmitter locations.
+[[file:map.png]]
