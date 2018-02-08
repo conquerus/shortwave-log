@@ -1,7 +1,8 @@
 * Shortwave log
 ** Overview
 This is an Org-mode file that I use to generate the log of my
-shortwave contacts.  It is an example of [[https://justin.abrah.ms/emacs/literate_programming.html][literate programming]] since
+shortwave contacts (remember to view in /Raw/ mode, otherwise the code
+will be hidden).  It is an example of [[https://justin.abrah.ms/emacs/literate_programming.html][literate programming]] since
 the code and prose are coupled. It uses a Python script (via
 Org-babel) to generate a map of the transmitter locations with Python
 using information from the table. The Python script requires =numpy=,
